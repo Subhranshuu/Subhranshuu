@@ -44,7 +44,7 @@
   <a href="">
     <img align="left" alt="Subhranshu's Twitter | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
-  <a href="">
+  <a href="_pi_.n._ku_">
     <img align="left" alt="Subhranshu's Instagram | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:subhransusekharparida46@gmail.com">
