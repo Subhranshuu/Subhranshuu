@@ -1,11 +1,15 @@
 
 <h1>Hi 👋, I'm Subhranshu</h1>
-<p>A passionate frontend developer from </p>
+<p>A passionate frontend developer from </p>  
+<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+
 - 🌱 I’m currently learning Javascript
 
 - 📫 How to reach me subhransusekharparida46@gmail.com
   
-- 👨‍💻 All of my projects are available at https://github.com/Subhranshuu
+- 👨‍💻 All of my projects are available at https://github.com/Subhranshuu   
+
+- 💬 Ask me about anything, I am happy to help
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -27,4 +31,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=subhranshuu&show_icons=true&locale=en" alt="subhranshuu" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhranshuu&" alt="subhranshuu" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=subhranshuu&show_icons=true&locale=en&layout=compact" alt="subhranshuu" /></p>
+
 
