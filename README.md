@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Javascript
 
-- 📫 How to reach me subhransusekharparida46@gmail.com
+- 📫 How to reach me subhranshu911@gmail.com
   
 - 👨‍💻 All of my projects are available at https://github.com/Subhranshuu   
 
